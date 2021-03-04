@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Cell phones and accessories</name>
+   <tag></tag>
+   <elementGuidId>c511a181-ebc3-4cb5-a3c9-a7c5e992319e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContent']//descendant::a[contains(text(),'accessories')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.hl-cat-nav__js-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_sp</name>
+      <type>Main</type>
+      <value>p2481888.m1379.l3251</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hl-cat-nav__js-link</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cell phones and accessories</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;hl-cat-nav&quot;]/ul[@class=&quot;hl-cat-nav__container&quot;]/li[@class=&quot;hl-cat-nav__js-tab hl-cat-nav__js-show&quot;]/div[@class=&quot;hl-cat-nav__flyout&quot;]/div[@class=&quot;hl-cat-nav__sub-cats&quot;]/nav[@class=&quot;hl-cat-nav__sub-cat-col&quot;]/ul[1]/li[1]/a[@class=&quot;hl-cat-nav__js-link&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div/ul/li[3]/div[2]/div/nav/ul/li/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cell phones and accessories')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Most popular categories'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand: Electronics'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video games and consoles'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computers and tablets'])[1]/preceding::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cell phones and accessories']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li/a</value>
+   </webElementXpaths>
+</WebElementEntity>
